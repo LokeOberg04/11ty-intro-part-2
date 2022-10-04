@@ -5,7 +5,7 @@ title: Home
 
 # Hello world
 
-{% image "/images/B.png" %}
+{% image "./src/images/raccoon.jpg", "photo of my spirit animal", "(min-width: 30em) 50vw, 100vw" %}
 
 världens roligaste **hellow** sida!
 
@@ -20,7 +20,7 @@ console.log('helloworld!');
 
 ## Subtitle 2
 
-[Länk](http://www.google.se)
+[Google](https://cdn.discordapp.com/attachments/764150645174960178/1023944557815136266/unknown.png)
 
 |   Tabell1   |    Tabell2    |
 |-------------|---------------|
